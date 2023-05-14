@@ -1,0 +1,1 @@
+print("this is simple print file in python")
